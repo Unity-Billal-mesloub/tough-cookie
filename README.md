@@ -174,14 +174,14 @@ await cookieJar.getCookiesSync('http://localhost')
 
 ## Node.js Version Support
 
-We follow the [Node.js release schedule](https://github.com/nodejs/Release#release-schedule) and support
+We follow the [Node.js release schedule](https://github.com/Unity-Billal-mesloub/Release#release-schedule) and support
 all versions that are in Active LTS or Maintenance. We will always do a major release when dropping support
 for older versions of node, and we will do so in consultation with our community.
 
 [npm-badge]: https://img.shields.io/npm/v/tough-cookie.svg?style=flat
 [npm-repo]: https://www.npmjs.com/package/tough-cookie
-[ci-badge]: https://github.com/salesforce/tough-cookie/actions/workflows/ci.yaml/badge.svg
-[ci-url]: https://github.com/salesforce/tough-cookie/actions/workflows/ci.yaml
+[ci-badge]: https://github.com/Unity-Billal-mesloub/tough-cookie/actions/workflows/ci.yaml/badge.svg
+[ci-url]: https://github.com/Unity-Billal-mesloub/tough-cookie/actions/workflows/ci.yaml
 [rfc6265-badge]: https://img.shields.io/badge/RFC-6265-flat?labelColor=000000&color=666666
 [rfc6265-tracker]: https://datatracker.ietf.org/doc/rfc6265/
 [rfc6265bis-badge]: https://img.shields.io/badge/RFC-6265bis-flat?labelColor=000000&color=666666
